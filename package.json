@@ -1,0 +1,9 @@
+{
+  "name": "ismultiple-flag-example",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "dependencies": {
+    "meow": "^7.1.1"
+  }
+}
